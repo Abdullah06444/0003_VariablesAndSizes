@@ -3,7 +3,7 @@ using System.Numerics;
 
 namespace CSharp0003_VariablesAndSizes
 {
-    class Program
+    class CSharp0003_VariablesAndSizes
     {
         static void Main(string[] args)
         {
