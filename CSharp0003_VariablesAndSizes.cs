@@ -7,7 +7,6 @@ namespace CSharp0003_VariablesAndSizes
     {
         static void Main(string[] args)
         {
-
             // Primitive Variable types
             Console.WriteLine("The CHARACTER takes char between => " + char.MinValue + " <=> "
             + char.MaxValue + " and also size => " + sizeof(char) + " byte");
@@ -43,7 +42,6 @@ namespace CSharp0003_VariablesAndSizes
             + new BigInteger(double.MaxValue) + " and also size => " + sizeof(double) + " byte");
             Console.WriteLine("The DOUBLE takes value between " + double.MinValue + " <=> "
             + double.MaxValue + " and also size => " + sizeof(double) + " byte");
-            
         }
     }
 }
